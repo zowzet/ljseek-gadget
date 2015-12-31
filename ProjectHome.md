@@ -1,0 +1,1 @@
+This gadget uses public html code provided by ljseek at http://www.ljseek.com.
